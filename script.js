@@ -133,6 +133,7 @@ function siSelect(elem) {
         setTimeout(function () {
             clearInterval(effect2);
             // document.querySelector('body').style.backgroundColor = 'skyblue';
+            document.querySelector('#blossom_container').style.zIndex = 3;
             document.querySelector('.blossom').src = 'blossom.js';
         }, 6000);
     }

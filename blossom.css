@@ -1,6 +1,6 @@
  
   #blossom_container {
-    z-index: 3;
+    z-index: 1;
     position: absolute;
     width: calc(100% - 40px);
     height: calc(100% - 40px);
