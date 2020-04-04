@@ -1,6 +1,6 @@
  
   #blossom_container {
-    z-index: 1;
+    z-index: 3;
     position: absolute;
     width: calc(100% - 40px);
     height: calc(100% - 40px);
@@ -9,7 +9,6 @@
   
   .petal {
     background: url(cherry-blossom.png) no-repeat;
-    z-index: 3;
   }
   .petal.petal-style1 {
     width: 45px;
