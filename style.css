@@ -132,7 +132,7 @@ body, div, button, h1 {
     width: 80%;
     /* max-height: 50%; */
     left: 10%;
-    bottom: 5%;
+    top: 5%;
     opacity: 0.5;
     z-index: 1;
 }
